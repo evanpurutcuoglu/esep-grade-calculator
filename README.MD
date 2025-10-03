@@ -2,6 +2,10 @@
 
 This library is a simple utility to calculate your grades.
 
+Testing file is provided.
+
+Use go.mod to manage dependencies.
+
 Runtime requirements:
 Golang 1.24+
 
